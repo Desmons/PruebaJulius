@@ -1,0 +1,8 @@
+Hola buen día mi nombres es Fabricio Cardozo Ordoñez,
+este trabajo lo realice por motivos de demostracion, 
+cabe aclarar que no use el mejor metodo para llegar al punto final (me ubiera gustado poder user un FrameWork Laravel) pero
+la idea era mostrar mis conocimientos asi que aplique un poco de todo, html, css, js y php.
+Dentro de lo que es php use un poco de programacion orientada objetos, 
+aplicar el patron de diseño MVC ademas de realizar conexiones seguras a la base de datos con PDO.
+
+para mas información pueden contactarme a fabricho255@gmail.com o +57 317 549 6291
